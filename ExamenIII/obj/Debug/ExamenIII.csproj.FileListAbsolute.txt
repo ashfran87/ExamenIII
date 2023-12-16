@@ -1,0 +1,2 @@
+C:\Users\Ashley\Documents\ExamenIII\ExamenIII\ExamenIII\obj\Debug\ExamenIII.csproj.AssemblyReference.cache
+C:\Users\Ashley\Documents\ExamenIII\ExamenIII\ExamenIII\obj\Debug\ExamenIII.csproj.CoreCompileInputs.cache
